@@ -1,6 +1,6 @@
 //get key and plaintext strings input
 //get ciphertext string output
-
+ 
 #include <iostream>
 #include <iomanip>
 #include <sstream>
